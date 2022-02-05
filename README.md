@@ -31,8 +31,8 @@ docker-compose down
 
 ## Service
 
-```api/service``` folder contains source required to build an image using the Dockerfile. The service is build using ```FastAPI```.
+```api/service``` folder contains source required to build an image using the Dockerfile. The service is built using ```FastAPI```.
 
 ## Client
 
-```client``` folder contains source code for the client-side application that is build using ```React```. 
+```client``` folder contains source code for the client-side application that is built using ```React```. 
